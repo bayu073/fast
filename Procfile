@@ -1,1 +1,1 @@
-woker: node .
+worker: npm start
